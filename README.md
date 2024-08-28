@@ -1,2 +1,3 @@
-# Cola-sales-Dashboard-
-Cola sales Dashboard using PowerBi
+# Cola sales Dashboard
+## Cola sales Dashboard using PowerBi
+### 
